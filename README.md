@@ -2,6 +2,10 @@
     <img src="docs/adel-logo.svg" width="160" >
 </div>
 
+#  CondInst for Brain Neuron Segmentation
+
+This repository modifies CondInst to work with Brain Neuron Segmentation.
+
 #  AdelaiDet
 
 AdelaiDet is an open source toolbox for multiple instance-level recognition tasks on top of [Detectron2](https://github.com/facebookresearch/detectron2).
